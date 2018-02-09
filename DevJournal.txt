@@ -9,7 +9,7 @@ What may be more problematic right now are technical issues. The Android Studio 
 
 Right now our largest blocker may be to familiarize ourselves with the XML language and with the Android IDE. To save some time, we will use Java and not Kotlin to code our app.
 	
-Technical Questions to be resolved:
+Technicl Questions to be resolved:
 For William:
 -What is the main purpose of the activity_main.xml file? Why is a new string resource not automatically created in the strings.xml file if I put something in the activity_main.xml file? 
 
@@ -28,6 +28,11 @@ What did I think it was going to be:
 
 Thoughts about the project:
 I have concerns about how bloated the app may become. The app is trying to accomplish a lot of things so it may eventually suffer from lack of clarity. Worse, the app may become uninteresting to use because it tries to be a jack of all trades but a master of none. Consequently, I am a big fan of trying to narrow down the final content of the app.
+
+USER STORY:
+	Jacob Farner is a low income worker doing construction work. When he isn’t working, Jacob spends his time with his family and drinking with his friends. He has little interest in healthy eating and exercise because of the effort and cost needed to do both. Jacob has little interest in the trendy apps that are typically promoted. 
+	However recently his doctor has told him he needs to lose weight. Jacob remembers that his friend who works at OXY talked about some kind of app that could help him. It’s also in Spanish which is a plus.
+	Jacob wants a simple to use app that will teach him how to get fit quick. Jacob doesn’t care that much about how social media integration or integration with larger services. Jacob just wants a simple app because he isn’t very good with technology. Furthermore, Jacob thinks it would be cool to have information that is more directly related to his interests.
 
 
 
