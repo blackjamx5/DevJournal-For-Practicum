@@ -5,4 +5,17 @@ User Story 3: George goes along with a group out during lunch break on work and 
 Sty
 
 Teagan Mucher:
-User story: Maria is a single mother with two young boys. She needs to find a recipe for a quick, on-the-go breakfast for her kids.
+User Story 1: Maria is a single mother with two young boys. She needs to find a recipe for a quick, on-the-go breakfast for her kids.
+User Story 2: A guy comes into LA to visit his brother for the weekend. They want to find a walking trail to go explore on a Saturday morning.
+
+
+Dan Huth:
+User Story 1: An LA native is having a rough week at his office and has not had any time to exercise. During his lunch break, he wants to find an exercise that he can do for 5-10 minutes that will help keep him healthy. 
+User Story 2: A college student has decided that she wants to make a change in her life, and start living healthily. She has no experience with any ways to eat healthy,  or work out. 
+
+William Chen:
+Jacob Farner is a low income worker doing construction work. When he isn’t working, Jacob spends his time with his family and drinking with his friends. He has little interest in healthy eating and exercise because of the effort and cost needed to do both. Jacob has little interest in the trendy apps that are typically promoted. 
+	However recently his doctor has told him he needs to lose weight. Jacob remembers that his friend who works at OXY talked about some kind of app that could help him. It’s also in Spanish which is a plus.
+	Jacob wants a simple to use app that will teach him how to get fit quick. Jacob doesn’t care that much about how social media integration or integration with larger services. Jacob just wants a simple app because he isn’t very good with technology. Furthermore, Jacob thinks it would be cool to have information that is more directly related to his interests.
+
+
