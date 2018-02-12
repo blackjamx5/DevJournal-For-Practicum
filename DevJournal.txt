@@ -80,3 +80,8 @@ an attractive, intuitive app for the Prof. Raney and the research team. I want t
 but also a great opportunity for me to learn. I like the development team, and think we are already working really well together.
 
 User story: Maria is a single mother with two young boys. She needs to find a recipe for a quick, on-the-go breakfast for her kids.
+
+REFLECTION for 2/11/18 (Dan)
+At the beginning of our sprint we wanted to build three basic UI elements for our app. We wanted an exercise skeleton, a functioning map and a nutrition skeleton. At the end of our sprint, we had completed a homepage, and both of the skeletons but not the map. The reason we couldn't finish the map is because it turned out to be much more complex than we originally expected, and required a lot more time and effort that we could afford. 
+Our community partners have been very explicit in what they want. Our app should almost perfectly match the description that they have provided for us. Whether they actually like the layout of the app is another question entirely. 
+Looking back on my hopes and fears from my previous developer journal update, I still maintain many of the same fears. However, the one fear that has been alleviated is the fear of not measuring up to my peers. I realized that we are all on the same page when it comes to code knowledge. That is to say, we all know absolutely nothing about android studio development.
