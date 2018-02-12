@@ -1,0 +1,12 @@
+Sprint stuff:
+  We wanted to lay down a skeleton of the three basic pages that divide the content they needed in place and we accomplished that -
+  map was visible and buttons were in place on nutrition and exercise pages.
+  
+Spring goals:
+  Need to get the map up to shape - all tags and easy navigation and user location.
+  Need easy to use filters on content.
+Priorities:
+  Have remained constant.
+Hopes and fears:
+  Before I was hopeful about intuitiveness of Android Development and fearing not having time to work on it.
+  The two have flipped.
