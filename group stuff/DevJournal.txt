@@ -29,12 +29,6 @@ What did I think it was going to be:
 Thoughts about the project:
 I have concerns about how bloated the app may become. The app is trying to accomplish a lot of things so it may eventually suffer from lack of clarity. Worse, the app may become uninteresting to use because it tries to be a jack of all trades but a master of none. Consequently, I am a big fan of trying to narrow down the final content of the app.
 
-USER STORY:
-	Jacob Farner is a low income worker doing construction work. When he isn’t working, Jacob spends his time with his family and drinking with his friends. He has little interest in healthy eating and exercise because of the effort and cost needed to do both. Jacob has little interest in the trendy apps that are typically promoted. 
-	However recently his doctor has told him he needs to lose weight. Jacob remembers that his friend who works at OXY talked about some kind of app that could help him. It’s also in Spanish which is a plus.
-	Jacob wants a simple to use app that will teach him how to get fit quick. Jacob doesn’t care that much about how social media integration or integration with larger services. Jacob just wants a simple app because he isn’t very good with technology. Furthermore, Jacob thinks it would be cool to have information that is more directly related to his interests.
-
-
 
 REFLECTION for 2/5/18 (Joey)
 
@@ -82,3 +76,17 @@ but also a great opportunity for me to learn. I like the development team, and t
 User story: Maria is a single mother with two young boys. She needs to find a recipe for a quick, on-the-go breakfast for her kids.
 
 REFLECTION for 2/11/18 (Dan)
+
+WEEK 2
+Reflection for William 2/18/18	
+The App so far:
+So far we've been making decent progress. We have the main page set up, we have each subcategory skeleton set up and we have the maps working. 
+
+The biggest difference between the current design of our app and the proposed design will be the Nutrition and Exercise portions. Rather than waste space by making general filter options like NO EQUIPMENT and EQUIPMENT appear on individual pages, we want to save space by implementing filter options at the top of a page containing a list-style view of all the exercises/recipes.
+
+Difficulties:
+It turns out that while theoritically it was a good idea to use Kotlin over Java, in practice it's a major hindrance to coding. I was never the best at remembering syntax so switching languages is always painful, even if they are very fundamentally the same. 
+
+At the start of the project I thought I would be able to get by learning how to build the app as I followed the steps in Android development tutorials. There are two issues with that. One is that the bulk of the existing tutorials are written for Java. Since we're using Kotlin, not only are the majority of online resources not directly applicable--in the sense that I can build an app by pasting in bricks of code--but Justin will not be able to help us for many technical issues. 
+
+The other issue is my weak coding foundation. I'm going to review things like how to code objects--properly that is.
