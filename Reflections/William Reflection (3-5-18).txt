@@ -1,0 +1,36 @@
+William Reflection (3-6-18)
+How did the user testing/feedback session go? What did you expect to learn? What did you actually learn?
+What, if anything, have you learned about interacting with real clients on real projects?
+Look back at your hopes and fears from the previous reflection. Have your hopes and fears changed? How? Why?
+
+
+User Feedback:
+The user feedback was not that helpful. We were expecting a venue with corporate sponsors and large campus organizations where a good majority of the faculty/staff would be present to try the app and have suggestions. 
+
+We wanted to ask users what their life might look like at a glance and what they were looking for in an app. By recording interactions and by doing brief interviews, we were hoping to get better user stories.
+
+As four non-latino college students we had a pretty distinct lack of shared experiences with our target audience. Not only are we younger but we also come from very different cultures. Thus, we wanted to verify whether our app was fitting in with their culture/cultural identity. We wanted to learn more about their backgrounds so that our app could actually augment their experiences in a positive way. 
+
+Furthermore, we wanted to verify how our users interacted with phones. So far we’ve just been relying on the principle of keeping the app as simple as possible. For example, while we may be used to swiping, older people may be used to pressing fixed buttons. 
+
+Furthermore, we wanted to learn what parts of the screen they would intuitively press. Since our app is media-heavy, there’s a strong possibility that the user would become confused as to what is actually interactive. The user may press a photo intending to find more information when in reality it does nothing.
+
+
+Since the event turned out to be much more casual than we thought we learned very little for anything. There were few staff attending and equally as few students manning tables. Staff that were present were either not very interested in our app or just confused as to what we were doing. 
+ 
+
+What have I learned:
+I knew beforehand from jokes about software development (e.g Dilbert) that working with clients would be a nightmare. I want to say after a month of working with them that that’s not entirely true. 
+
+I was preparing for the worst case scenario where real clients would force us to code up projects that were poorly designed, but strictly what they envisioned. I was expecting little to no leeway for our input. 
+
+Instead, I learned that real clients actually place a fair amount of trust into our designs. They really do believe that in addition to the technical knowledge, we have intuition for human needs i.e we aren’t just mindless robotic nerds. Thus we actually have a fair bit of flexibility for most of the app.
+
+However, I also learned that the client may be less committed to the project than we are. It takes several days, if at all for them to respond to our emails and to fulfill our requests for important information e.g sending gifs/photos like they said they would. Furthermore, the media resources they send look amateurish. For example, almost every food photo they sent not only includes trademarked material, but look like they were shot in seconds on their cellphones. (This is not just me being picky as a photographer either)
+
+While this media quality not our issue to worry about, it is personally disheartening to see that they intend on using these images in the final product. 
+
+
+Fears:
+
+My fears have not really changed. I am still worried that the technical debt we have accrued so far is going to make development grind to a halt in the later portions of the project. In some ways it already has as the task to create a modified array list, that takes the google sheets API,  has dragged on much longer than we thought. Finding tutorials isn’t going to cut it anymore. To code up a proper solution, I am dedicating my spring break to fully refreshing my java and data structures knowledge. That, and to continue familiarizing myself with Kotlin.
