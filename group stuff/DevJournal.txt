@@ -90,3 +90,8 @@ It turns out that while theoritically it was a good idea to use Kotlin over Java
 At the start of the project I thought I would be able to get by learning how to build the app as I followed the steps in Android development tutorials. There are two issues with that. One is that the bulk of the existing tutorials are written for Java. Since we're using Kotlin, not only are the majority of online resources not directly applicable--in the sense that I can build an app by pasting in bricks of code--but Justin will not be able to help us for many technical issues. 
 
 The other issue is my weak coding foundation. I'm going to review things like how to code objects--properly that is.
+
+3/15/18
+We've decided to switch over to Java instead of Kotlin. This was a move that wasn't lightly considered because now we've had to rewrite almost all of the code we have written so far. In doing so we've wasted a lot of time not only because all the work we did on perfecting the Kotlin code must now be discarded but also because we have to look for more tutorials to perfect our java versions. 
+
+Fortunately, the switch has been more or less smooth. Writing Java code is more straightforward than Kotlin given our familiarity with it. 
