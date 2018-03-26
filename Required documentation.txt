@@ -1,0 +1,13 @@
+List of documentation… things we need & who it’s for
+
+1: design decisions - Justin, future devs
+
+2: Project overview - for Justin and us 
+- potentially merged with design decisions
+
+3: System documentation - for us and future developers
+- used for Maintenance
+	- is a detailed understanding of the inner workings of our functions/methods fit together
+
+4: user documentation - 
+- technical manual for understanding how the program works
